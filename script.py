@@ -18,7 +18,6 @@ import os
 def main():
 	parser = argparse.ArgumentParser(description="TensorFlow Training Pipeline")
 	parser.add_argument('--data_root', type=str, help='root folder of the image dataset')
-	#parser.add_argument('--save_model_dir', type=str, help='directory to save the  trained model')
 	args = parser.parse_args()
 	
 	if(args.data_root==None):
