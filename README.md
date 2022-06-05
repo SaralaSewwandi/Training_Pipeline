@@ -1,4 +1,4 @@
-Set Up Commands
+## Set Up Commands
 1.
 git clone https://github.com/SaralaSewwandi/Training_Pipeline.git
 
@@ -14,7 +14,7 @@ conda activate project_env
 5.
 pip install -r ./requirements.txt 
 
-Test Cases
+## Test Cases
 
 python script.py --data_root ./image_datasets/jpg_images/
 
