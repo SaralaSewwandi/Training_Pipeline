@@ -9,7 +9,7 @@
 
 * pip install -r ./requirements.txt 
 
-## Test Cases
+## Test Cases/Commands
 
 * python script.py --data_root ./image_datasets/jpg_images/
 
